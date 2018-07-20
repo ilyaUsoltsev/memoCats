@@ -10,3 +10,5 @@
 
 //add timer
 
+//optional: add images from flikr or any other api service to make
+// the game 'new' every day.
